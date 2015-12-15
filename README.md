@@ -1,1 +1,3 @@
-# directx-project-3 
+# directx-project-3
+## Author: Vladimir Rodin 
+## Twitter: @heyhihellobro
